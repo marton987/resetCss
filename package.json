@@ -1,0 +1,20 @@
+{
+  "name": "reset-this",
+  "version": "1.0.1",
+  "description": "SCSS to reset element style to default based on webkit css user-agent value.",
+  "main": "reset-this.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marton987/resetCss.git"
+  },
+  "keywords": [
+    "reset",
+    "css"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marton987/resetCss/issues"
+  },
+  "homepage": "https://github.com/marton987/resetCss#readme"
+}
