@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Sass template
+.sass-cache/
+*.css.map
+### VisualStudioCode template
+.vscode
+### IntelliJ
+.idea/
