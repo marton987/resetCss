@@ -10,10 +10,10 @@ SCSS to reset element style to default based on webkit css user-agent value.
 ```
     @import 'reset-this';
     
-    # Include inside the section that you like to reset
+    # Include inside the section that you'd like to reset
     @include reset-this;
     
-    # You can override the default adding the rules bettween {}
+    # You can override the default adding the rules between curly braces {}
     @include reset-this { background: blue };
 ```
 
