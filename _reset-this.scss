@@ -120,7 +120,7 @@
     bottom: auto;
     box-shadow: none;
     /* This is reset to border-box to make bootstrap styles work correctly */
-    box-sizing: border-box;
+    box-sizing: content-box;
     caption-side: top;
     clear: none;
     clip: auto;
